@@ -1,1 +1,1 @@
-# estoquepousada
+instalei o react, bootstrap e sass para estruturar o projeto 
