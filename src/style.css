@@ -1,0 +1,42 @@
+.form_container {
+    width: 30%;
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .form_container {
+        width: 45%;
+    } 
+    
+}
+
+@media screen and (max-width: 700px) {
+    .form_container {
+        width: 65%;
+    } 
+    
+}
+
+.login {
+    min-height: 100vh;
+    position: relative;
+}
+
+
+.form_container {
+    box-shadow: 0 0 10px rgba(233, 105, 105, 0.8);
+    opacity: 80% ;
+}
+
+.input {
+    box-shadow: 0 0 10px rgba(233, 105, 105, 0.8);
+}
+
+.form-control {
+    box-shadow: 0 0 10px rgba(233, 55, 55, 0.8);
+}
+
+.btn {
+    box-shadow: 0 0 10px rgba(233, 55, 55, 0.8);
+}
+
